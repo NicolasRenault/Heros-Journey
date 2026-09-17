@@ -20,6 +20,6 @@
     ]
   ],
   "rewards": {
-    "function": "hsj:eyes/creeping/main"
+    "function": "hsj:eyes/golden/main"
   }
 }
